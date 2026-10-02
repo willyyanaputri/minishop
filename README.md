@@ -54,4 +54,4 @@ Endpoint utama:
 Clone repository terlebih dahulu:
 
 ```bash
-git clone [URL_REPOSITORY]
+git clone [https://github.com/willyyanaputri/minishop.git]
